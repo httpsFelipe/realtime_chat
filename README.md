@@ -47,4 +47,4 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 ## Links
 
-- [Link to GitHub repository](https://github.com/httpsFelipe/custom_t_shirt)
+- [Link to GitHub repository](https://github.com/httpsFelipe/realtime_chat)
